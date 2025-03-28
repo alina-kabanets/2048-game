@@ -10,18 +10,23 @@ _2048 is a single-player sliding tile puzzle game, developed with JavaScript, HT
 
 
 
-## **Design Reference **
+## 🚀 **Technologies Used:**
 
-🖼 [**Figma Mockup**](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1&t=tfAdrWUpxrkXjou7-0)
+- JavaScript:
 
+   - DOM Manipulation: querySelector(), getElementById(), classList, innerText
 
+   - Array Methods: push(), forEach(), filter(), map(), reverse()
 
-## **🛠️ Technologies Used**
+   - Math Methods: Math.floor(), Math.random()
 
-- **HTML5: Structured the content and layout of the landing page.**
-- **CSS3 / SCSS: Styled the landing page, utilizing CSS Grid and Flexbox for layout, as well as transitions and animations for interactive elements.**
-- **JavaScript (ES6+): Dynamic interaction.**
-- **GitHub Pages: Deployed and hosted for easy access and testing.**
+   - Event Handling: addEventListener(), removeEventListener()
+
+   - String Methods: parseInt(), toString()
+
+- HTML5: Structured the game grid and interface elements.
+
+- CSS3: Styled the game board and tiles, ensuring a visually consistent and responsive design.
 
 
 ## 🚀 **Key Contributions:**
@@ -35,27 +40,6 @@ _2048 is a single-player sliding tile puzzle game, developed with JavaScript, HT
 - 📌 Score Tracking: Developed a scoring system that updates in real-time as players merge tiles, enhancing the game's competitive aspect.
 
 - 🔥 Win/Loss Conditions: Programmed the game to detect win (reaching 2048) and loss (no available moves) conditions, displaying appropriate messages and providing restart functionality.
-
-
-
-## 🚀 **Technologies Used:**
-
-- JavaScript:
-
-    DOM Manipulation: querySelector(), getElementById(), classList, innerText
-
-    Array Methods: push(), forEach(), filter(), map(), reverse()
-
-    Math Methods: Math.floor(), Math.random()
-
-    Event Handling: addEventListener(), removeEventListener()
-
-    String Methods: parseInt(), toString()
-
-- HTML5: Structured the game grid and interface elements.
-
-- CSS3: Styled the game board and tiles, ensuring a visually consistent and responsive design.
-
 
 
 ## 📸 **Screenshots**
@@ -93,7 +77,6 @@ LinkedIn: https://www.linkedin.com/in/alina-kabanets/
 GitHub: https://github.com/alina-kabanets
 
 ---
-
 
 ## 📦 **Getting Started**
 
